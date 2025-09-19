@@ -30,10 +30,10 @@ https://2048sid.streamlit.app/
 ## 🖼️ Screenshots  
 
 ### Game Board & How to Play
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/Screenshot1.png)
 
 ### Gameplay & Controls
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/Screenshot2.png)
 
 ---
 
